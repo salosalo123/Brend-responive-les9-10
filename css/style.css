@@ -76,6 +76,10 @@ header {
   .header-nav {
     display: none;
   }
+  .header-div{
+    max-width: 90%;
+    
+  }
   .brend {
     width: 61px;
     height: 19px;
