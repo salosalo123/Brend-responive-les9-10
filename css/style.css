@@ -72,13 +72,14 @@ header {
   text-align: center;
 }
 
-@media (min-width:375px) {
+@media (max-width:375px) {
   .header-nav {
     display: none;
   }
   .brend {
     width: 61px;
     height: 19px;
+    margin-left: 24px;
   }
   .tm {
     width: 10px;
