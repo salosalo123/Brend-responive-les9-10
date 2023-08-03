@@ -1,15 +1,15 @@
-/* responsive */
+/* responsive
 
 @media (max-width: 744px) {
   /* header-responsive- mobile */
-
+/*
   .header-nav {
     display: none;
   }
   .header-div {
     max-width: 100%;
     /* width: 375px;
-      height: 656px; */
+      height: 656px; 
   }
   .brend {
     width: 61px;
@@ -52,7 +52,7 @@
   }
 
   /* section1 */
-
+/*  
   .sec1-div {
     max-width: 90%;
     width: 375px;
@@ -168,7 +168,7 @@
     align-items: center;
   }
   .right-div {
-    background-image: url(../image/small\ tablet.jpg);
+    /* background-image: url(../image/small\ tablet.jpg); */
     width: 696px;
     height: 499px;
     border-radius: 12px;
@@ -239,7 +239,7 @@
     /* margin-left: 50px; */
   }
   .right-div {
-    background-image: url(../image/larg\ tablet.jpg);
+    /* background-image: url(../image/larg\ tablet.jpg); */
     width: 960px;
     height: 450px;
     border-radius: 12px;
@@ -247,4 +247,4 @@
     background-position: center;
     margin-bottom: 30px;
   }
-}
+} */
