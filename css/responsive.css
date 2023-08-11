@@ -240,13 +240,13 @@
 .tex-paragraf{
   width: 315px;
   height: 188px;
-
+  margin-left: -560px;
 }
 .footerlogo {
   
-   margin-top: -50px;
+   margin-top: 150px;
    margin-bottom: 50px;
-   margin-left: -40px;
+   margin-left: -600px;
 }
 .first{
   margin-bottom: 16px;

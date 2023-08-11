@@ -150,7 +150,7 @@ h1 {
   margin-right: 30px;
   background-size: cover;
   background-position: top right;
-  margin-bottom: 30px;
+  margin-top: 30px;
 }
 .section1-img {
   width: 50%;
@@ -342,9 +342,10 @@ footer {
   /* max-width: 1440px;
   width: 100%;
   margin: 0 auto;
-  height: 336px; */
+  /* height: 336px; */
   color: #fff;
   background-color: #000000;
+  height: 336px;
 }
 .footerlogo-text-par {
   max-width: 1140px;
@@ -352,8 +353,9 @@ footer {
   width: 100%;
   display: flex;
   align-items: center;
-  /* align-items: center; */
-  /* justify-content: center; */
+  justify-content: center;
+  margin-left: 300px;
+  padding-top: 130px;
   padding: 96px 0;
 }
 .tex-paragraf {
@@ -361,7 +363,7 @@ footer {
   display: flex;
   flex-direction: row;
 }
-.footer > div:first-child,
+/* .footer > div:first-child,
 .footer >div:last-child div {
   width: 20%;
 }
@@ -374,7 +376,7 @@ footer {
   display: flex;
   gap: 120px;
 }
-
+ */
 
 .tex-paragraf ul li a {
   color: #ffffff;
@@ -398,11 +400,11 @@ footer {
   margin-top: 8px;
   opacity: 40%;
 }
-.footer > div > div ul {
+/* .footer > div > div ul {
   display: flex;
   flex-direction: column;
   gap: 8px;
-}
+} */
 
 
 
