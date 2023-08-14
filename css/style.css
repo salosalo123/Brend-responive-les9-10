@@ -83,20 +83,19 @@ header {
 /* section1 */
 
 .section-1 {
-  
-  width: 100%;
+  max-width: 1440px;
   height: 556px;
+  margin: 0 auto;
   padding: 65px 165px;
 }
 
 .sec1-div {
   width: 100%;
-  max-width: 1440px; 
   margin: 0 auto;
   display: flex;
   flex-direction: row;
   height: 556px;
-  row-gap: 130px;
+  column-gap: 130px;
   row-gap: 50px;
 }
 .left-div {
