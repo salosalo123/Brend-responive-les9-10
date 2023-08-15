@@ -365,7 +365,7 @@ footer {
   margin: 0 auto;
   /* width: 100%; */
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: space-between;
   text-align: left;
   /* margin-left: 300px; */
@@ -380,7 +380,13 @@ footer {
 
   /* margin-top: 100px; */
 }
-.footerlogo {
+.footer-logo-brand{
+ width: 200px;
+ height: 27px;
+ /* margin-bottom: 20px; */
+ display: flex;
+ align-items:start;
+ justify-content: start;
 }
 /* .footer > div:first-child,
 .footer >div:last-child div {
@@ -405,7 +411,7 @@ footer {
   line-height: 20px;
 }
 .firstcolumn {
-  width: 20%;
+  width: 25%;
 }
 
 .firstcolumn .first a {
